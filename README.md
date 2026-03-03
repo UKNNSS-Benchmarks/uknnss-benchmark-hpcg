@@ -11,12 +11,12 @@ Stable
 
 - @aturner-epcc ([https://github.com/aturner-epcc](https://github.com/aturner-epcc))
 
-## Overview
+**Important:** Please do not contact the benchmark maintainers directly with any questions.
+All questions on the benchmark must be submitted via the procurement response mechanism.
 
-### Software
+## Software
 
 - [HPCG](https://www.hpcg-benchmark.org/)
-
 
 ## Building the benchmark
 
@@ -25,7 +25,7 @@ meets [Top500 submission guidelines](https://www.hpcg-benchmark.org/faq/index.ht
 
 ### Permitted modifications
 
-Offerors are permitted to modify the benchmark in any way compatible with Top500
+Bidders are permitted to modify the benchmark in any way compatible with Top500
 submission guidelines.
 
 ## Running the benchmark
