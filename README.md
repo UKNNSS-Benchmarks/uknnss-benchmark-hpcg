@@ -27,17 +27,20 @@ Top500 submission guidelines.
 
 ### Required tests
 
-The bidder is required to run the following tests
+The bidder is required to run the following test:
 
-- Single node HPCG performance
-  + Single node HPCG runs across all compute nodes that run for at least 30 minutes on each node
-  + The difference between the maximum measured single-node performance and the minimum
-    measured single-node performance must be equal to or less than 5% of the mean measured single-node performance.
 - Full system HPCG performance
-  + A full system run of HPCG using a minimum of 99% of all compute nodes under Top500 
-    submission rules that runs for at least 30 minutes
+  + A full system run of HPCG using a minimum of 99% of all compute nodes under Top500 submission rules that runs for at least 30 minutes
   + This run should provide data for a valid Top500 submission
 
 ## License
 
 This benchmark description and associated files are released under the MIT license.
+
+## Changelog
+
+The following changes to this document have been made since initial release:
+
+| <div style="width:90px">Date</div> | Change |
+|-----------:|--------|
+| 2026-06-25 | Update required tests |
